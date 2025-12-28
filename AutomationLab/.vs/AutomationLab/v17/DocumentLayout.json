@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\domains\\elements\\textboxdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:domains\\elements\\textboxdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\helpers\\uiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\stepdefinitions\\ui\\elements\\textboxsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:stepdefinitions\\ui\\elements\\textboxsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\features\\ui\\elements\\textbox.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:features\\ui\\elements\\textbox.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\pages\\ui\\elements\\textboxpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\config\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\config\\environmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\automationlab.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\helpers\\uicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\pages\\ui\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\helpers\\waitengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\drivers\\uidriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B291E45E-5AB2-4802-A2B4-B18B58D384B8}|..\\AutomationLab.Common\\AutomationLab.Common.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab.common\\drivers\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|e:\\defaultstorage\\visualstudio\\testautomation\\automationlab\\automationlab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F33AB6C-5B8D-40C8-9C7F-FEE815A14128}|AutomationLab.csproj|solutionrelative:automationlab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Config\\Routes.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Config\\Routes.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Config\\Routes.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Config\\Routes.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:51:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBoxSteps.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\StepDefinitions\\UI\\Elements\\TextBoxSteps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\UI\\Elements\\TextBoxSteps.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\StepDefinitions\\UI\\Elements\\TextBoxSteps.cs",
+              "RelativeToolTip": "StepDefinitions\\UI\\Elements\\TextBoxSteps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:31:44.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextBox.feature",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Features\\UI\\Elements\\TextBox.feature",
+              "RelativeDocumentMoniker": "Features\\UI\\Elements\\TextBox.feature",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Features\\UI\\Elements\\TextBox.feature",
+              "RelativeToolTip": "Features\\UI\\Elements\\TextBox.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPddBPiNR1GMfx1/c36\u002Bx/29Ylf7NUrriiKIhhHYKgdMMgukXNEBSCFEInb3WKghYCIRBBOnjpoLOHBMsOQaBQQhc71EFrUwmUmdm1Nqddnd119tth9zc7s9hz\u002B36ez\u002Bf9PN8neFSdSwcFe7AdDwW3NF33VnWhwxdjDJ0CptIjOI496FrrLOFXTCpVz7dH1gHltAcn8D50J3mLK0uSkOhO8h40G5nzAyGcUKw0IWkBeA/HYO9ju/w4ccHezbu8M/aGy4fOC\u002BuzPhLjy9ljFVBOh/AJcsP5IfXledv6n/L8yLNeLUy4//CBKGaZXnzqm9Gg9YVyWkR5W/\u002BTLh38yve1H3z\u002B2xf\u002BXvrHcH7IX4tzZhbvZgBr19qpVL2RfWE/3LlfcebmWV0hp9aYVWvMulaf3hi2Nni/tht0QTOu\u002BHPhtmv1aY3mYss9PjBmct\u002BHDqcvtTT0awPchPHB7U4dmHRo6wtGurfYkn9coecJuZDzSnrQ6QOftQNua91gKt0h\u002Bj0IyY6BMfeW665MfO3k9Bm7N4/bPTju9StH9eX6VBo1aBC3KtXqqxsUqzfwZRT9MX/L4KYBISR\u002BnvvFT3evGu1NNeNKFoazSrX6\u002BgZQTkdxEc/AcH7I3NI9SUj0dfX6d3k\u002Bc84I8UXF2vVOAJxLRwSn8Rp6OnqrtYCiUvXbTOgEwFRhk\u002Bg54jG83dap4l2l6sU27RGArKYKh8X4He7gAuFjpcrMRtv/A8qFp4n7cFXSrHhzdqMD/AfXwLdp/4rZ5QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-28T10:29:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiExecutor.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\UiExecutor.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Helpers\\UiExecutor.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\UiExecutor.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Helpers\\UiExecutor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:05:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextBoxDomain.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Domains\\Elements\\TextBoxDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Elements\\TextBoxDomain.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Domains\\Elements\\TextBoxDomain.cs",
+              "RelativeToolTip": "Domains\\Elements\\TextBoxDomain.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:41:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextBoxPage.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Pages\\UI\\Elements\\TextBoxPage.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Pages\\UI\\Elements\\TextBoxPage.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Pages\\UI\\Elements\\TextBoxPage.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Pages\\UI\\Elements\\TextBoxPage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:06:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnvironmentConfig.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Config\\EnvironmentConfig.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Config\\EnvironmentConfig.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Config\\EnvironmentConfig.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Config\\EnvironmentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:37:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Hooks.cs",
+              "RelativeDocumentMoniker": "Hooks.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\Hooks.cs",
+              "RelativeToolTip": "Hooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:48:24.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T10:30:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutomationLab.Common",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\AutomationLab.Common.csproj",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\AutomationLab.Common.csproj",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\AutomationLab.Common.csproj",
+              "RelativeToolTip": "..\\AutomationLab.Common\\AutomationLab.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T01:44:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Pages\\UI\\BasePage.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Pages\\UI\\BasePage.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Pages\\UI\\BasePage.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Pages\\UI\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:06:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UiContext.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\UiContext.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Helpers\\UiContext.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\UiContext.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Helpers\\UiContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:05:16.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WaitEngine.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\WaitEngine.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Helpers\\WaitEngine.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Helpers\\WaitEngine.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Helpers\\WaitEngine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:05:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UiDriverFactory.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Drivers\\UiDriverFactory.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Drivers\\UiDriverFactory.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Drivers\\UiDriverFactory.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Drivers\\UiDriverFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:04:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DriverManager.cs",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Drivers\\DriverManager.cs",
+              "RelativeDocumentMoniker": "..\\AutomationLab.Common\\Drivers\\DriverManager.cs",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\Drivers\\DriverManager.cs",
+              "RelativeToolTip": "..\\AutomationLab.Common\\Drivers\\DriverManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T02:04:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutomationLab",
+              "DocumentMoniker": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\AutomationLab.csproj",
+              "RelativeDocumentMoniker": "AutomationLab.csproj",
+              "ToolTip": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab\\AutomationLab.csproj",
+              "RelativeToolTip": "AutomationLab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T01:41:39.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

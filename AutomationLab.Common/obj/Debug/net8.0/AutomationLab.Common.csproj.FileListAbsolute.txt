@@ -1,0 +1,13 @@
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\bin\Debug\net8.0\AutomationLab.Common.deps.json
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\bin\Debug\net8.0\AutomationLab.Common.dll
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\bin\Debug\net8.0\AutomationLab.Common.pdb
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.csproj.AssemblyReference.cache
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.AssemblyInfoInputs.cache
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.AssemblyInfo.cs
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.csproj.CoreCompileInputs.cache
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.sourcelink.json
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.dll
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\refint\AutomationLab.Common.dll
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\AutomationLab.Common.pdb
+E:\DefaultStorage\VisualStudio\TestAutomation\AutomationLab.Common\obj\Debug\net8.0\ref\AutomationLab.Common.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgSY5IecdCw=",
+  "success": true,
+  "projectFilePath": "E:\\DefaultStorage\\VisualStudio\\TestAutomation\\AutomationLab.Common\\AutomationLab.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\selenium.support\\4.39.0\\selenium.support.4.39.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\selenium.webdriver\\4.39.0\\selenium.webdriver.4.39.0.nupkg.sha512"
+  ],
+  "logs": []
+}
